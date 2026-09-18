@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #aa84b2;
+}
+
+.container {
+    width: 70%;
+    max-width: 1100px;
+    min-width: 500px;
+    margin: 20px auto;
+    background-color: #f4f4f4;
+}
+
+.header {
+    
+    height: 72px;
+    background-color:#B336E2;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+.main {
+    height: 939px;
+    background-color: #B336E2;
+    margin-bottom: 15px;
+}
+
+.footer {
+    height: 295px;
+    background-color: #B336E2;
+    border-radius: 12px;
+}
